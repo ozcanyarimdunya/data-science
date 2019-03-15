@@ -1,0 +1,125 @@
+DATE,SALES,CATEGORY
+01/01/2016 00:00:00,38,Neapolitan Pizza
+02/01/2016 00:00:00,36,Neapolitan Pizza
+03/01/2016 00:00:00,28,Neapolitan Pizza
+04/01/2016 00:00:00,27,Neapolitan Pizza
+05/01/2016 00:00:00,17,Neapolitan Pizza
+06/01/2016 00:00:00,33,Neapolitan Pizza
+07/01/2016 00:00:00,34,Neapolitan Pizza
+08/01/2016 00:00:00,35,Neapolitan Pizza
+09/01/2016 00:00:00,36,Neapolitan Pizza
+10/01/2016 00:00:00,37,Neapolitan Pizza
+11/01/2016 00:00:00,38,Neapolitan Pizza
+12/01/2016 00:00:00,39,Neapolitan Pizza
+01/01/2017 00:00:00,40,Neapolitan Pizza
+02/01/2017 00:00:00,41,Neapolitan Pizza
+03/01/2017 00:00:00,42,Neapolitan Pizza
+04/01/2017 00:00:00,43,Neapolitan Pizza
+05/01/2017 00:00:00,44,Neapolitan Pizza
+06/01/2017 00:00:00,45,Neapolitan Pizza
+07/01/2017 00:00:00,46,Neapolitan Pizza
+08/01/2017 00:00:00,47,Neapolitan Pizza
+09/01/2017 00:00:00,48,Neapolitan Pizza
+10/01/2017 00:00:00,49,Neapolitan Pizza
+11/01/2017 00:00:00,50,Neapolitan Pizza
+12/01/2017 00:00:00,51,Neapolitan Pizza
+01/01/2018 00:00:00,52,Neapolitan Pizza
+02/01/2018 00:00:00,53,Neapolitan Pizza
+03/01/2018 00:00:00,54,Neapolitan Pizza
+04/01/2018 00:00:00,55,Neapolitan Pizza
+05/01/2018 00:00:00,56,Neapolitan Pizza
+06/01/2018 00:00:00,57,Neapolitan Pizza
+07/01/2018 00:00:00,58,Neapolitan Pizza
+01/01/2016 00:00:00,59,Chicago Pizza
+02/01/2016 00:00:00,60,Chicago Pizza
+03/01/2016 00:00:00,61,Chicago Pizza
+04/01/2016 00:00:00,62,Chicago Pizza
+05/01/2016 00:00:00,63,Chicago Pizza
+06/01/2016 00:00:00,64,Chicago Pizza
+07/01/2016 00:00:00,65,Chicago Pizza
+08/01/2016 00:00:00,66,Chicago Pizza
+09/01/2016 00:00:00,67,Chicago Pizza
+10/01/2016 00:00:00,68,Chicago Pizza
+11/01/2016 00:00:00,69,Chicago Pizza
+12/01/2016 00:00:00,70,Chicago Pizza
+01/01/2017 00:00:00,71,Chicago Pizza
+02/01/2017 00:00:00,72,Chicago Pizza
+03/01/2017 00:00:00,73,Chicago Pizza
+04/01/2017 00:00:00,74,Chicago Pizza
+05/01/2017 00:00:00,75,Chicago Pizza
+06/01/2017 00:00:00,76,Chicago Pizza
+07/01/2017 00:00:00,77,Chicago Pizza
+08/01/2017 00:00:00,78,Chicago Pizza
+09/01/2017 00:00:00,79,Chicago Pizza
+10/01/2017 00:00:00,80,Chicago Pizza
+11/01/2017 00:00:00,81,Chicago Pizza
+12/01/2017 00:00:00,82,Chicago Pizza
+01/01/2018 00:00:00,83,Chicago Pizza
+02/01/2018 00:00:00,84,Chicago Pizza
+03/01/2018 00:00:00,85,Chicago Pizza
+04/01/2018 00:00:00,86,Chicago Pizza
+05/01/2018 00:00:00,87,Chicago Pizza
+06/01/2018 00:00:00,88,Chicago Pizza
+07/01/2018 00:00:00,89,Chicago Pizza
+01/01/2016 00:00:00,90,Sicilian Pizza
+02/01/2016 00:00:00,91,Sicilian Pizza
+03/01/2016 00:00:00,92,Sicilian Pizza
+04/01/2016 00:00:00,93,Sicilian Pizza
+05/01/2016 00:00:00,94,Sicilian Pizza
+06/01/2016 00:00:00,95,Sicilian Pizza
+07/01/2016 00:00:00,96,Sicilian Pizza
+08/01/2016 00:00:00,97,Sicilian Pizza
+09/01/2016 00:00:00,98,Sicilian Pizza
+10/01/2016 00:00:00,99,Sicilian Pizza
+11/01/2016 00:00:00,100,Sicilian Pizza
+12/01/2016 00:00:00,101,Sicilian Pizza
+01/01/2017 00:00:00,102,Sicilian Pizza
+02/01/2017 00:00:00,103,Sicilian Pizza
+03/01/2017 00:00:00,104,Sicilian Pizza
+04/01/2017 00:00:00,105,Sicilian Pizza
+05/01/2017 00:00:00,106,Sicilian Pizza
+06/01/2017 00:00:00,107,Sicilian Pizza
+07/01/2017 00:00:00,108,Sicilian Pizza
+08/01/2017 00:00:00,109,Sicilian Pizza
+09/01/2017 00:00:00,110,Sicilian Pizza
+10/01/2017 00:00:00,111,Sicilian Pizza
+11/01/2017 00:00:00,112,Sicilian Pizza
+12/01/2017 00:00:00,113,Sicilian Pizza
+01/01/2018 00:00:00,114,Sicilian Pizza
+02/01/2018 00:00:00,115,Sicilian Pizza
+03/01/2018 00:00:00,116,Sicilian Pizza
+04/01/2018 00:00:00,117,Sicilian Pizza
+05/01/2018 00:00:00,118,Sicilian Pizza
+06/01/2018 00:00:00,119,Sicilian Pizza
+07/01/2018 00:00:00,120,Sicilian Pizza
+01/01/2016 00:00:00,121,Tomato Pie Pizza
+02/01/2016 00:00:00,122,Tomato Pie Pizza
+03/01/2016 00:00:00,123,Tomato Pie Pizza
+04/01/2016 00:00:00,124,Tomato Pie Pizza
+05/01/2016 00:00:00,125,Tomato Pie Pizza
+06/01/2016 00:00:00,126,Tomato Pie Pizza
+07/01/2016 00:00:00,127,Tomato Pie Pizza
+08/01/2016 00:00:00,128,Tomato Pie Pizza
+09/01/2016 00:00:00,129,Tomato Pie Pizza
+10/01/2016 00:00:00,130,Tomato Pie Pizza
+11/01/2016 00:00:00,131,Tomato Pie Pizza
+12/01/2016 00:00:00,132,Tomato Pie Pizza
+01/01/2017 00:00:00,133,Tomato Pie Pizza
+02/01/2017 00:00:00,134,Tomato Pie Pizza
+03/01/2017 00:00:00,135,Tomato Pie Pizza
+04/01/2017 00:00:00,136,Tomato Pie Pizza
+05/01/2017 00:00:00,137,Tomato Pie Pizza
+06/01/2017 00:00:00,138,Tomato Pie Pizza
+07/01/2017 00:00:00,139,Tomato Pie Pizza
+08/01/2017 00:00:00,140,Tomato Pie Pizza
+09/01/2017 00:00:00,141,Tomato Pie Pizza
+10/01/2017 00:00:00,142,Tomato Pie Pizza
+11/01/2017 00:00:00,143,Tomato Pie Pizza
+12/01/2017 00:00:00,144,Tomato Pie Pizza
+01/01/2018 00:00:00,145,Tomato Pie Pizza
+02/01/2018 00:00:00,146,Tomato Pie Pizza
+03/01/2018 00:00:00,147,Tomato Pie Pizza
+04/01/2018 00:00:00,148,Tomato Pie Pizza
+05/01/2018 00:00:00,149,Tomato Pie Pizza
+06/01/2018 00:00:00,150,Tomato Pie Pizza
+07/01/2018 00:00:00,151,Tomato Pie Pizza
